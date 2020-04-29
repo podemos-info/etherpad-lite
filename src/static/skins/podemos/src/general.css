@@ -1,0 +1,15 @@
+html {
+  font-size: 15px;
+}
+
+body {
+  color: #485365;
+  color: var(--text-color);
+  font-family: "Monserrat", Quicksand, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: var(--main-font-family);
+}
+
+h1 {
+  color: #683064;
+  color: var(--primary-color);
+}
