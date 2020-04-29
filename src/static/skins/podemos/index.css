@@ -47,8 +47,8 @@ body {
   text-shadow: none;
   font-size: 23px;
   line-height: 1.8;
-  color: #683064;
-  background: #02747F;
+  color: #fff;
+  background: #AC5C92;
   border-radius: 3px;
   box-shadow: none;
   height: 53px;
@@ -61,7 +61,7 @@ button[type=submit] {
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;
   left: 305px;
-  color: #683064;
+  color: #fff;
   background: #02747F;
   border: none;
   top: 0;
@@ -70,8 +70,8 @@ button[type=submit] {
 #button:hover,
 button[type=submit]:hover {
   cursor: pointer;
-  background: #64d29b;
-  border: 2px solid #02747F;
+  background: #AC5C92;
+  border: 2px solid #683064;
   color: #02747F;
 }
 
